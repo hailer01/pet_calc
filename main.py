@@ -26,7 +26,7 @@ def root(a):
 def factorial(a):
     return math.factorial(a)
 
-
+print('*********************')
 while True:
     print("Вибери операцію")
     print('1. Додавання')
